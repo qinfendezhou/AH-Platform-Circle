@@ -1,1 +1,3 @@
 # AH-Platform-Circle
+"AH Platform-Circle" is an app that helps virtual currency users communicate with each other. In "AH Platform-Circle", you can exchange experiences about virtual currencies with other users, discuss your favorite content, and see the latest news about virtual currencies, such as currency increases or related news, and get the first place Hand information, lay a solid foundation for your own success.For more comments and suggestions, please contact us: "AH Platform-Circle" official email: civrrizvo80452062@163.com
+![Image text](https://github.com/qinfendezhou/AH-Platform-Circle/blob/main/1%202/WechatIMG662.jpeg)
