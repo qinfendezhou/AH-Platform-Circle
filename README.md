@@ -1,3 +1,3 @@
 # Fast Currency Information
 "Fast Currency Information" is an App that helps virtual currency users communicate with each other and view related information. In "Fast Currency Information", you can enter the same social circle with other users, discuss your favorite content with them, learn about other users’ views on different virtual currencies, and view the latest news about virtual currencies. The latest market changes of virtual currencies and first-hand information are available to lay a solid foundation for your own success. For more comments and suggestions, please contact us: "Fast Currency Information" official email: civrrizvo80452062@163.com
-![Image text](https://github.com/qinfendezhou/AH-Platform-Circle/blob/main/1%202/WechatIMG662.jpeg)
+![Image text](https://github.com/qinfendezhou/AH-Platform-Circle/blob/main/1%202/3.jpg)
